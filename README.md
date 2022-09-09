@@ -1,7 +1,7 @@
 # MP03 Grup 2T
 # Avaluació Inicial
 
-### Nom i cognoms:
+### Nom i cognoms: Àngel Blasco Benedicto
 
 1. Marca les UFs de primer d'aquest mòdul que tens superades:
 
