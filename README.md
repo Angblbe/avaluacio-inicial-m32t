@@ -24,7 +24,7 @@
     Resposta:
     
     
-    -
+    - Es tracta d'un procés de diversos passos del qual un codi és "traduït/interpretat" fins a aconseguir que aquest aparegui de forma senzilla visualment
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
@@ -40,10 +40,10 @@
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-    Resposta: La complexitat i la necesitat de recursos que necesita per executar-lo
+    Resposta: 
 
 
-    -
+    - La complexitat i la necesitat de recursos que necesita per executar-lo
 
 7. Explica què és un algorisme.
 
@@ -64,10 +64,11 @@
 
     - Una classe és un conjunt d'objectes que comparteix una relació entre ells, cadascun d'aquests elements que estan dintre d'una classe, són objectes (Exemple:   Vegetació: arbre, flor, herba, arbust...)
 
-    Resposta de b: Una funció es podria dir que crea un objecte, en canvi el metode modifica aquests
+    Resposta de b:
 
 
-    -
+    - Una funció es podria dir que crea un objecte, en canvi, el metode modifica aquests.
+    
 
 9. Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
 
