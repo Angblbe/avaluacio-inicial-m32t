@@ -24,7 +24,7 @@
     Resposta:
     
     
-    - Es tracta d'un procés de diversos passos del qual un codi és "traduït/interpretat" fins a aconseguir que aquest aparegui de forma senzilla visualment
+    - Es tracta d'un procés de diversos passos del qual un codi és "traduït/interpretat" fins a aconseguir que aquest aparegui d'una altra forma
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
@@ -50,7 +50,7 @@
     Resposta:
 
 
-    -
+    - Resposta: Una sèrie d'instruccions definides que entren en acció durant succeïx x esdeveniment
 
 8. En el món de la programació Orientada a Objecte, digues quina diferència hi ha entre:
 
