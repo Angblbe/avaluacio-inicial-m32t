@@ -62,9 +62,9 @@
     Resposta d'a:
 
 
-    -
+    - Una classe és un conjunt d'objectes que comparteix una relació entre ells, cadascun d'aquests elements que estan dintre d'una classe, són objectes (Exemple:   Vegetació: arbre, flor, herba, arbust...)
 
-    Resposta de b:
+    Resposta de b: Una funció es podria dir que crea un objecte, en canvi el metode modifica aquests
 
 
     -
