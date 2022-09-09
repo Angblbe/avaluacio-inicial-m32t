@@ -16,7 +16,7 @@
     Resposta: 
     
     
-    -
+    -No
 
 
 3. Què és compilar un programa?
@@ -35,12 +35,12 @@
 
 5. Quins llenguatges de programació has fet servir?
 
-    Resposta: 
+    Resposta: Java, Phyton, Php
 
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-    Resposta: 
+    Resposta: La complexitat i la necesitat de recursos que necesita per executar-lo
 
 
     -
